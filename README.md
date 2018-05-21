@@ -15,18 +15,18 @@
  $ git clone https://github.com/harshitsinghai77/Python-Project-Gravity-Semester-1.git
  
 # Screenshots
-![Alt text](screenshots/gravity5.png?raw=true)
-![Alt text](screenshots/gravity6.png?raw=true)
-![Alt text](screenshots/gravity7.png?raw=true)
-![Alt text](screenshots/gravity8.png?raw=true)
-![Alt text](screenshots/gravity9.png?raw=true)
-![Alt text](screenshots/gravity10.png?raw=true)
-![Alt text](screenshots/gravity11.png?raw=true)
-![Alt text](screenshots/gravity12.png?raw=true)
-![Alt text](screenshots/gravity1.JPEG?raw=true)
-![Alt text](screenshots/gravity2.JPEG?raw=true)
-![Alt text](screenshots/gravity3.JPEG?raw=true)
-![Alt text](screenshots/gravity4.JPEG?raw=true)
+![Alt text](screenshots/gravity_5.png?raw=true)
+![Alt text](screenshots/gravity_6.png?raw=true)
+![Alt text](screenshots/gravity_7.png?raw=true)
+![Alt text](screenshots/gravity_8.png?raw=true)
+![Alt text](screenshots/gravity_9.png?raw=true)
+![Alt text](screenshots/gravity_10.png?raw=true)
+![Alt text](screenshots/gravity_11.png?raw=true)
+![Alt text](screenshots/gravity_12.png?raw=true)
+![Alt text](screenshots/gravity_1.JPEG?raw=true)
+![Alt text](screenshots/gravity_2.JPEG?raw=true)
+![Alt text](screenshots/gravity_3.JPEG?raw=true)
+![Alt text](screenshots/gravity_4.JPEG?raw=true)
 
 # Dependencies
 > Pygame is strongly dependent on SDL and Python. It also links to and embeds several other smaller libraries. The font module relies on SDL_tff, which is dependent on freetype. The mixer (and mixer.music) modules depend on SDL_mixer. The image module depends on SDL_image, which also can use libjpeg and libpng. The transform module has an embedded version of SDL_rotozoom for its own rotozoom function. The surfarray module requires the python numpy package for its multidimensional numeric arrays.
