@@ -20,9 +20,9 @@
   <img src="screenshots/gravity_7.png" width="30%" /> 
   <img src="screenshots/gravity_8.png" width="30%" /> 
   <img src="screenshots/gravity_9.png" width="30%" /> 
- <img src="screenshots/gravity_10.png" width="30%" /> 
+ 
  <img src="screenshots/gravity_11.png" width="30%" /> 
- <img src="screenshots/gravity_12.png" width="30%" /> 
+  
  <img src="screenshots/gravity_1.JPG" width="30%" /> 
  <img src="screenshots/gravity_2.JPG" width="30%" /> 
  <img src="screenshots/gravity_3.JPG" width="30%" /> 
