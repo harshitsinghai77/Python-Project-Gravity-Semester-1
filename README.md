@@ -15,8 +15,8 @@
  $ git clone https://github.com/harshitsinghai77/Python-Project-Gravity-Semester-1.git
  
 # Screenshots
-![Alt text](screenshots/gravity_5.png)![Alt text](screenshots/gravity_6.png)
-![Alt text](screenshots/gravity_7.png?raw=true)
+------------ | -------------
+![Alt text](screenshots/gravity_6.png) | ![Alt text](screenshots/gravity_7.png?raw=true)
 ![Alt text](screenshots/gravity_8.png?raw=true)
 ![Alt text](screenshots/gravity_9.png?raw=true)
 ![Alt text](screenshots/gravity_10.png?raw=true)
