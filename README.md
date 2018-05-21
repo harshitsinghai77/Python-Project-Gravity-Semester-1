@@ -14,8 +14,11 @@
 #### Clone the repo
  Ubuntu/Debian
  $ sudo apt-get install python-pygame
+ 
  $ git clone https://github.com/harshitsinghai77/Python-Project-Gravity-Semester-1.git
+ 
  $ cd gravity/ 
+ 
  $ python main.py
 
 # Dependencies
