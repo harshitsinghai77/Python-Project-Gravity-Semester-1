@@ -23,10 +23,10 @@
 ![Alt text](screenshots/gravity_10.png?raw=true)
 ![Alt text](screenshots/gravity_11.png?raw=true)
 ![Alt text](screenshots/gravity_12.png?raw=true)
-![Alt text](screenshots/gravity_1.JPEG?raw=true)
-![Alt text](screenshots/gravity_2.JPEG?raw=true)
-![Alt text](screenshots/gravity_3.JPEG?raw=true)
-![Alt text](screenshots/gravity_4.JPEG?raw=true)
+![Alt text](screenshots/gravity_1.JPG?raw=true)
+![Alt text](screenshots/gravity_2.JPG?raw=true)
+![Alt text](screenshots/gravity_3.JPG?raw=true)
+![Alt text](screenshots/gravity_4.JPG?raw=true)
 
 # Dependencies
 > Pygame is strongly dependent on SDL and Python. It also links to and embeds several other smaller libraries. The font module relies on SDL_tff, which is dependent on freetype. The mixer (and mixer.music) modules depend on SDL_mixer. The image module depends on SDL_image, which also can use libjpeg and libpng. The transform module has an embedded version of SDL_rotozoom for its own rotozoom function. The surfarray module requires the python numpy package for its multidimensional numeric arrays.
