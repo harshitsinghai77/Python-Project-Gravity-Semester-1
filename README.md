@@ -16,22 +16,18 @@
  
 # Screenshots
 <p float="left">
-  <img src="screenshots/gravity_6.png" width="100" />
-  <img src="screenshots/gravity_7.png" width="100" /> 
-  <img src="screenshots/gravity_8.png" width="100" />
+  <img src="screenshots/gravity_6.png" width="50%" />
+  <img src="screenshots/gravity_8.png" width="50%" /> 
+  <img src="screenshots/gravity_9.png" width="50%" /> 
+  <img src="screenshots/gravity_10.png" width="50%" /> 
+ <img src="screenshots/gravity_11.png" width="50%" /> 
+ <img src="screenshots/gravity_12.png" width="50%" /> 
+ <img src="screenshots/gravity_1.png" width="50%" /> 
+ <img src="screenshots/gravity_2.png" width="50%" /> 
+ <img src="screenshots/gravity_3.png" width="50%" /> 
+ <img src="screenshots/gravity_4.png" width="50%" /> 
+ <img src="screenshots/gravity_7.png" width="50%" /> 
 </p>
-![Alt text](screenshots/gravity_6.png) 
-![Alt text](screenshots/gravity_7.png?raw=true)
-![Alt text](screenshots/gravity_8.png?raw=true)
-![Alt text](screenshots/gravity_9.png?raw=true)
-![Alt text](screenshots/gravity_10.png?raw=true)
-![Alt text](screenshots/gravity_11.png?raw=true)
-![Alt text](screenshots/gravity_12.png?raw=true)
-![Alt text](screenshots/gravity_1.JPG?raw=true)
-![Alt text](screenshots/gravity_2.JPG?raw=true)
-![Alt text](screenshots/gravity_3.JPG?raw=true)
-![Alt text](screenshots/gravity_4.JPG?raw=true)
-
 # Dependencies
 > Pygame is strongly dependent on SDL and Python. It also links to and embeds several other smaller libraries. The font module relies on SDL_tff, which is dependent on freetype. The mixer (and mixer.music) modules depend on SDL_mixer. The image module depends on SDL_image, which also can use libjpeg and libpng. The transform module has an embedded version of SDL_rotozoom for its own rotozoom function. The surfarray module requires the python numpy package for its multidimensional numeric arrays.
 
