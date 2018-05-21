@@ -12,11 +12,11 @@
 > Installing from source is fairly automated. The most work will involve compiling and installing all the pygame dependencies. Once that is done run the "setup.py" script which will attempt to auto-configure, build, and install pygame.
 
 #### Clone the repo
-> Ubuntu/Debian
-> $ sudo apt-get install python-pygame
-> $ git clone https://github.com/harshitsinghai77/Python-Project-Gravity-Semester-1.git
-> $ cd gravity/ 
-> $ python main.py
+ Ubuntu/Debian
+ $ sudo apt-get install python-pygame
+ $ git clone https://github.com/harshitsinghai77/Python-Project-Gravity-Semester-1.git
+ $ cd gravity/ 
+ $ python main.py
 
 # Dependencies
 > Pygame is strongly dependent on SDL and Python. It also links to and embeds several other smaller libraries. The font module relies on SDL_tff, which is dependent on freetype. The mixer (and mixer.music) modules depend on SDL_mixer. The image module depends on SDL_image, which also can use libjpeg and libpng. The transform module has an embedded version of SDL_rotozoom for its own rotozoom function. The surfarray module requires the python numpy package for its multidimensional numeric arrays.
