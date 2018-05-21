@@ -14,6 +14,10 @@ Installing from source is fairly automated. The most work will involve compiling
 # Dependencies
 > Pygame is strongly dependent on SDL and Python. It also links to and embeds several other smaller libraries. The font module relies on SDL_tff, which is dependent on freetype. The mixer (and mixer.music) modules depend on SDL_mixer. The image module depends on SDL_image, which also can use libjpeg and libpng. The transform module has an embedded version of SDL_rotozoom for its own rotozoom function. The surfarray module requires the python numpy package for its multidimensional numeric arrays.
 
+ # Prerequisite
+ > * Pygame - Using pygame in-built functions makes several tasks like importing images, sounds, characters, and graphics much easier.
+   * Object Oriented Programming - To write efficient code. 
+
 # Limitations
 > Python is not a recommended language for making professional games. The graphics doesn’t meet the demands of new generation gamers.
 
@@ -21,9 +25,6 @@ Installing from source is fairly automated. The most work will involve compiling
 > * Characters - Player will be allowed to choose from different characters.
   * Maps and Levels - Player can select different maps and levels.
   
- # Prerequisite
- > * Pygame - Using pygame in-built functions makes several tasks like importing images, sounds, characters, and graphics much easier.
-   * Object Oriented Programming - To write efficient code. 
   
 
 
