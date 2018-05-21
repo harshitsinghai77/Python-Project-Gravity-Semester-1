@@ -17,6 +17,9 @@
  # Prerequisite
  > * Pygame - Using pygame in-built functions makes several tasks like importing images, sounds, characters, and graphics much easier.
  > * Object Oriented Programming - To write efficient code. 
+ 
+ # Flow chart
+ ![Alt text](/screenshots/flowchart.png?raw=true "Gravity Flow Chart")
 
 # Limitations
 > Python is not a recommended language for making professional games. The graphics doesn’t meet the demands of new generation gamers.
