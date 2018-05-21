@@ -18,6 +18,13 @@
  > * Pygame - Using pygame in-built functions makes several tasks like importing images, sounds, characters, and graphics much easier.
  > * Object Oriented Programming - To write efficient code. 
  
+ # Controls
+ Keys | Button
+------------ | -------------
+Left arrow | Move Left
+Right arrow | Move Right
+Spacebar | Jump
+ 
  # Flow chart
  ![Alt text](/screenshots/flowchart.png?raw=true "Gravity Flow Chart")
 
